@@ -1,0 +1,5 @@
+{
+  "name": "React Keyboard Calculator",
+  "description": "A fully functional calculator built with React and Tailwind CSS that can be operated with both mouse clicks and keyboard input. It features a modern dark theme and responsive design.",
+  "requestFramePermissions": []
+}
